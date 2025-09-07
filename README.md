@@ -1,4 +1,7 @@
-![](bharat.gif)
+<p align="center">
+  <img src="bharat.gif" 
+</p>
+
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">A passionate developer and a constant learner.</h3>
 
